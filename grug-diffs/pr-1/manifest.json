@@ -1,0 +1,22 @@
+{
+  "added_variants": [
+    "snowball_synthetic"
+  ],
+  "base_sha": "a67b84ebfc4a1eaf53d10835af79916daa9f29ba",
+  "head_sha": "72d76fafdb8dd150a1c281159f257470a6175942",
+  "report_count": 1,
+  "reports": [
+    {
+      "closest_variant": "base",
+      "distance_score": 1515,
+      "report_relpath": "snowball_synthetic/index.html",
+      "status_counts": {
+        "added": 2,
+        "changed": 1,
+        "removed": 2,
+        "unchanged": 1
+      },
+      "variant": "snowball_synthetic"
+    }
+  ]
+}
